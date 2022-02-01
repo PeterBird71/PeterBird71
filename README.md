@@ -3,7 +3,7 @@
 - 👀 I am interested in C/C+, Javascript, JQuery, PHP and especially Python programming
 ... IOT with micropython, Raspberry, ESP, NetWork with 7 Windows certifications and a good knowledge of Cisco equipment
 - I develop mainly on linux
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning Django , Rtk and Ntrip
 - 💞️ I’m looking to collaborate on cool project
 - 📫 How to reach me ...
 
